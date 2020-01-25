@@ -1,3 +1,6 @@
+/* GE 1500/1501 Final Project Arduino Component*/
+/* Measuring, Calcultaing, and Displaying Electrical Output */
+
 #include <LiquidCrystal.h>
 
 byte V[] = {
